@@ -7,11 +7,17 @@ ipywidgets
 requests
 convertdate
 
-scipy
 numpy
 pandas
 pandas-profiling
+scipy
+statsmodels
+scikit-learn
+sktime
+tslearn
 prophet
+neuralprophet
+darts
 
 # Visualize
 japanize_matplotlib
@@ -21,7 +27,10 @@ plotly
 # NLP
 janome
 spaCy
+ginza
 ja-ginza
+sumy
+tinysegmenter
 gensim
 wordcloud
 pyLDAvis
